@@ -7,9 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LoginPage implements OnInit {
 
-  constructor() { }
+  constructor() { /* TODO document why this constructor is empty */  }
 
   ngOnInit() {
+    // TODO document why this method 'ngOnInit' is empty
+
   }
 
 }
